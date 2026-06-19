@@ -8,7 +8,7 @@
 
 - 🎓 Bachelor of Business Information Systems (BIS)
 - 💻 Angular Frontend Developer
-- 🌱 Currently improving my Angular and Frontend skills
+- 🌱 Currently expanding my expertise in Angular and modern frontend development
 - 🚀 Passionate about building responsive and scalable web applications
 - 📍 Cairo, Egypt
 
