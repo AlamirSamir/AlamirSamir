@@ -40,5 +40,5 @@
 ## 📫 Connect with Me
 
 - 📧 **Alamirsamir0@gmail.com**
-- 💼 LinkedIn *(Coming Soon)*
+- 💼 LinkedIn: www.linkedin.com/in/alamir-samir
 - 🌐 GitHub: https://github.com/AlamirSamir
